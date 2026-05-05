@@ -64,7 +64,7 @@ const ajay = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaypanchal1405@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ajay-panchal-039b8530a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjayPanchal14)
 
