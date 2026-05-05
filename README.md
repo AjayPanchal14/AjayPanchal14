@@ -87,23 +87,6 @@ $ cat about.json
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AjayPanchal14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=5DCAA5&text_color=c9d1d9&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPanchal14&layout=compact&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AjayPanchal14&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=5DCAA5&currStreakLabel=5DCAA5&sideLabels=1D9E75&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
