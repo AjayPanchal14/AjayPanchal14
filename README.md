@@ -2,20 +2,9 @@
 
 # Hey there, I'm Ajay Panchal 👋
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1D9E75&height=180&section=header&text=Ajay%20Panchal&fontSize=60&fontColor=ffffff&fontAlignY=50&desc=Shopify%20Frontend%20Developer&descAlignY=70&descSize=18&descColor=5DCAA5" width="100%"/>
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=5DCAA5&center=true&vCenter=true&width=600&lines=🛒+Shopify+%26+Frontend+Developer;🎨+Custom+Liquid+Theme+Builder;⚡+Building+E-commerce+Experiences)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajaypanchal1405@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
