@@ -57,19 +57,7 @@ const ajay = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayPanchal14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPanchal14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AjayPanchal14&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🔗 Connect with Me
 
